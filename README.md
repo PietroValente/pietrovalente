@@ -3,6 +3,9 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pietrovalente/)
 [![Email](https://img.shields.io/badge/Mail-blueviolet?style=flat&logo=yahoo&logoColor=white)](mailto:pietro.valente@yahoo.com)
 
+### Polytechnic University of Milan:
+
+### University of Padua:
 <!--
 **PietroValente/pietrovalente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
