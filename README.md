@@ -1,4 +1,4 @@
-### Hi there, here's Pietro! 👋
+### Hi there, here's Pietro! 👋:v:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pietrovalente/)
 [![Email](https://img.shields.io/badge/Mail-blueviolet?style=flat&logo=yahoo&logoColor=white)](mailto:pietro.valente@yahoo.com)
