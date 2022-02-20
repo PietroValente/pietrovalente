@@ -7,6 +7,8 @@ I'm an ICT engineering student who aims to complete his cycle of studies with a 
 
 ### Polytechnic University of Milan:
 
+### Metropolia University of Applied Sciences:
+
 ### University of Padua:
 <!--
 **PietroValente/pietrovalente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
