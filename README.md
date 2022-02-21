@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pietrovalente/)
 [![YahooMail](https://img.shields.io/badge/YahooMail-blueviolet?style=flat&logo=yahoo&logoColor=white)](mailto:pietro.valente@yahoo.com)
 
-I'm an ICT engineering student who aims to complete his cycle of studies with a master's degree before starting to work.
+I'm an ICT engineering student who aims to complete his cycle of studies before starting to work.
 
 ### Polytechnic University of Milan:
 
