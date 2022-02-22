@@ -9,7 +9,7 @@ I'm an ICT engineering student who aims to complete his cycle of studies before 
 
 ### Metropolia University of Applied Sciences:
 
-* Applied WEB application Security: **[`WEB applications vulnerabilities-AWAS`](https://github.com/pietrovalente/WEB-applications-vulnerabilities-AWAS)**
+* Applied WEB application Security: **[`WEB applications vulnerabilities`](https://github.com/pietrovalente/WEB-applications-vulnerabilities-AWAS)**
 
 ### University of Padua:
 <!--
