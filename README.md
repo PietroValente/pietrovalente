@@ -9,6 +9,8 @@ I'm an ICT engineering student who aims to complete his cycle of studies before 
 
 ### Metropolia University of Applied Sciences:
 
+* **Applied WEB application Security:** **[`WEB applications vulnerabilities-AWAS`](https://github.com/pietrovalente/WEB-applications-vulnerabilities-AWAS)**
+
 ### University of Padua:
 <!--
 **PietroValente/pietrovalente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
