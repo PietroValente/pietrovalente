@@ -9,9 +9,12 @@ I'm an ICT engineering student who aims to complete his cycle of studies before 
 
 ### Metropolia University of Applied Sciences:
 
-* Applied WEB application Security: **[`WEB applications vulnerabilities`](https://github.com/pietrovalente/WEB-applications-vulnerabilities-AWAS)**
+* Applied WEB application security: **[`WEB applications vulnerabilities`](https://github.com/pietrovalente/WEB-applications-vulnerabilities-AWAS)**
 
 ### University of Padua:
+
+* Software engineering: **[`fantasy game`](https://github.com/pietrovalente/fantasy-game-software-engineering)**, **[`adapter pattern`](https://github.com/pietrovalente/adapter-pattern-software-engineering)**
+
 <!--
 **PietroValente/pietrovalente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
