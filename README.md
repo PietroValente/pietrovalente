@@ -13,7 +13,7 @@ I'm an ICT engineering student who aims to complete his cycle of studies before 
 
 ### University of Padua:
 
-* Programming of Embedded Systems: **[`ChorusChecker app`](https://github.com/pietrovalente/ChorusChecker-app-programming-embedded-systems)**
+* Programming of Embedded Systems: **[`ChorusChecker App`](https://github.com/pietrovalente/ChorusChecker-app-programming-embedded-systems)**
 * Fundamentals of Electronics: **[`SPICE Simulations`](https://github.com/pietrovalente/SPICE-simulations-fundamentals-of-electronics)**
 * Software Engineering: **[`Fantasy Game`](https://github.com/pietrovalente/fantasy-game-software-engineering)**, **[`Adapter Pattern`](https://github.com/pietrovalente/adapter-pattern-software-engineering)**
 
