@@ -13,6 +13,7 @@ I'm an ICT engineering student who aims to complete his cycle of studies before 
 
 ### University of Padua:
 
+* Thesis: **[`BluetoothRSSIFinder App`](https://github.com/pietrovalente/BluetoothRSSIFinder-app-thesis)**
 * Programming of Embedded Systems: **[`ChorusChecker App`](https://github.com/pietrovalente/ChorusChecker-app-programming-embedded-systems)**
 * Multimedia: **[`Voice Activity Detection`](https://github.com/pietrovalente/Voice-Activity-Detection-multimedia)**
 * Fundamentals of Electronics: **[`SPICE Simulations`](https://github.com/pietrovalente/SPICE-simulations-fundamentals-of-electronics)**
