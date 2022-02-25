@@ -7,6 +7,8 @@ I'm an ICT engineering student who aims to complete his cycle of studies before 
 
 ### Polytechnic University of Milan:
 
+* Software Engineering 2: **[`DREAM`](https://github.com/pietrovalente/DREAM-software-engineering-2)**
+
 ### Metropolia University of Applied Sciences:
 
 * Applied WEB Application Security: **[`WEB Applications Vulnerabilities`](https://github.com/pietrovalente/WEB-applications-vulnerabilities-AWAS)**
