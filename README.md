@@ -20,7 +20,7 @@ I'm an ICT engineering student who aims to complete his cycle of studies before 
 * Multimedia: **[`Voice Activity Detection`](https://github.com/pietrovalente/Voice-Activity-Detection-multimedia)**
 * History of Information Technology: **[`Localization`](https://github.com/pietrovalente/Localization-history-information-technology)**
 * Fundamentals of Electronics: **[`SPICE Simulations`](https://github.com/pietrovalente/SPICE-simulations-fundamentals-of-electronics)**
-* Software Engineering: **[`Fantasy Game`](https://github.com/pietrovalente/fantasy-game-software-engineering)**, **[`Adapter Pattern`](https://github.com/pietrovalente/adapter-pattern-software-engineering)**
+* Software Engineering: **[`Fantasy Game`](https://github.com/pietrovalente/fantasy-game-software-engineering)**, **[`Adapter Pattern`](https://github.com/pietrovalente/adapter-pattern-software-engineering)** [Java]
 
 <!--
 **PietroValente/pietrovalente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
