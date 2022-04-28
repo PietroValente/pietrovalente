@@ -19,7 +19,7 @@ I'm an ICT engineering student who aims to complete his cycle of studies before 
 * Programming of Embedded Systems: **[`ChorusChecker App`](https://github.com/pietrovalente/ChorusChecker-app-programming-embedded-systems)**
 * Multimedia: **[`Voice Activity Detection`](https://github.com/pietrovalente/Voice-Activity-Detection-multimedia)**
 * History of Information Technology: **[`Localization`](https://github.com/pietrovalente/Localization-history-information-technology)**
-* Fundamentals of Electronics: **[`SPICE Simulations`](https://github.com/pietrovalente/SPICE-simulations-fundamentals-of-electronics)**
+* Fundamentals of Electronics: **[`SPICE Simulations`](https://github.com/pietrovalente/SPICE-simulations-fundamentals-of-electronics)** [LTSpice]
 * Software Engineering: **[`Fantasy Game`](https://github.com/pietrovalente/fantasy-game-software-engineering)**, **[`Adapter Pattern`](https://github.com/pietrovalente/adapter-pattern-software-engineering)** [Java]
 
 <!--
