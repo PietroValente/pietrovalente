@@ -7,12 +7,12 @@ I'm an ICT engineering student who aims to complete his cycle of studies before 
 
 ### Polytechnic University of Milan:
 
-* Data Bases 2: **[`TELCO`](https://github.com/pietrovalente/TELCO-Websites-databases2)** [Java, JSP, CSS, HTML, JavaScript]
-* Software Engineering 2: **[`DREAM`](https://github.com/pietrovalente/DREAM-software-engineering-2)** [Java, JSP, Python, Alloy, CSS]
+* Data Bases 2: **[`TELCO`](https://github.com/pietrovalente/TELCO-Websites-databases2)** [Java, SQL, JSP, CSS, HTML, JavaScript]
+* Software Engineering 2: **[`DREAM`](https://github.com/pietrovalente/DREAM-software-engineering-2)** [Java, SQL, JSP, Python, Alloy, CSS]
 
 ### Metropolia University of Applied Sciences:
 
-* Applied WEB Application Security: **[`WEB Applications Vulnerabilities`](https://github.com/pietrovalente/WEB-applications-vulnerabilities-AWAS)** [PHP, CSS, JavaScript, HTML]
+* Applied WEB Application Security: **[`WEB Applications Vulnerabilities`](https://github.com/pietrovalente/WEB-applications-vulnerabilities-AWAS)** [PHP, SQL, CSS, JavaScript, HTML]
 
 ### University of Padua:
 
