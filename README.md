@@ -7,9 +7,10 @@ I'm an ICT engineering student who aims to complete his cycle of studies before 
 
 ### Polytechnic University of Milan:
 
-* Multidisciplinary Project: **[`1001storia`](https://github.com/pietrovalente/1001storia-multidisciplinary-project)** [Go, GoFiber, PostgreSQL, Handbrake, Docker, Yarn]
 * Data Bases 2: **[`TELCO`](https://github.com/pietrovalente/TELCO-Websites-databases2)** [Java, SQL, JSP, CSS, HTML, JavaScript]
 * Software Engineering 2: **[`DREAM`](https://github.com/pietrovalente/DREAM-software-engineering-2)** [Java, SQL, JSP, Python, Alloy, CSS]
+* Multidisciplinary Project: **[`1001storia`](https://github.com/pietrovalente/1001storia-multidisciplinary-project)** [Go, GoFiber, PostgreSQL, Handbrake, Docker, Yarn]
+* Foundations Of Operations Research: **[`Assignments`](https://github.com/pietrovalente/Assignments-foundations-operations-research)** [AMPL]
 
 ### Metropolia University of Applied Sciences:
 
