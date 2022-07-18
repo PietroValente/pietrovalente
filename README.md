@@ -23,7 +23,7 @@ I'm an ICT engineering student who aims to complete his cycle of studies before 
 * Multimedia: **[`Voice Activity Detection`](https://github.com/pietrovalente/Voice-Activity-Detection-multimedia)** [C++]
 * History of Information Technology: **[`Localization`](https://github.com/pietrovalente/Localization-history-information-technology)**
 * Fundamentals of Electronics: **[`SPICE Simulations`](https://github.com/pietrovalente/SPICE-simulations-fundamentals-of-electronics)** [LTSpice]
-* Computer Networks: **[`Code`](https://github.com/pietrovalente/Code-computer-networks)** [C]
+* Computer Networks: **[`Web Code`](https://github.com/pietrovalente/Web-Code-computer-networks)** [C]
 * Software Engineering: **[`Fantasy Game`](https://github.com/pietrovalente/fantasy-game-software-engineering)**, **[`Adapter Pattern`](https://github.com/pietrovalente/adapter-pattern-software-engineering)** [Java]
 
 <!--
