@@ -9,6 +9,7 @@ As an ICT engineering student, my goal is to complete my studies with a master's
 
 * Strategy & Marketing: **[`L'Oréal Group`]()**
 * Accounting, Finance & Control: **[`Adidas Financial Analysis`]()**
+<hr align="left" width="420" size="1" style="border: medium dashed" color="#C0C0C0">
 * Data Bases 2: **[`TELCO`](https://github.com/pietrovalente/TELCO-Websites-databases2)** [Java, SQL, JSP, CSS, HTML, JavaScript]
 * Performance Evaluation and Applications: **[`Assignments`](https://github.com/pietrovalente/Assignments-performance-evaluation-and-applications)** [MATLAB]
 * Software Engineering 2: **[`DREAM`](https://github.com/pietrovalente/DREAM-software-engineering-2)** [Java, SQL, JSP, Python, Alloy, CSS]
