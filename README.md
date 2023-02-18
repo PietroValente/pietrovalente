@@ -8,7 +8,7 @@ As an ICT engineering student, my goal is to complete my studies with a master's
 ### Polytechnic University of Milan:
 
 * Strategy & Marketing: **[`L'Oréal Group`]()**
-* Accounting, Finance & Control: **[`Adidas Financial Analysis`]()**
+* Accounting, Finance & Control: **[`Adidas Financial Analysis`](https://github.com/PietroValente/Adidas-Financial-Analysis-AFC)**
    <hr width="96%">
 
 * Data Bases 2: **[`TELCO`](https://github.com/pietrovalente/TELCO-Websites-databases2)** [Java, SQL, JSP, CSS, HTML, JavaScript]
