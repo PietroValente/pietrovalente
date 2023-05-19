@@ -8,15 +8,11 @@ As an ICT engineering student, my goal is to complete my studies with a master's
 <h2>Polytechnic University of Milan</h2>
 <dl><dt>Managerial projects</dt></dl>
 
-<div align="center">
-
 | Course           | Project name  | Code/Format  |
 | -------------       |:-------------:  | :-----:|
 | Strategy & Marketing  | **[`L'Oréal Group`](https://github.com/PietroValente/L-Oreal-Group-strategy-marketing)** | PDF |
 | Design Thinking for Business      | **[`SMIRO`](https://github.com/PietroValente/SMIRO-design-thinking-for-business)**      |   PDF |
 | Accounting, Finance & Control | **[`Adidas Financial Analysis`](https://github.com/PietroValente/Adidas-Financial-Analysis-AFC)**      |  PDF |
-
-</div>
   
 <dl><dt>IT projects</dt></dl>
 
