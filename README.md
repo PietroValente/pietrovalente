@@ -5,7 +5,8 @@
 
 As an ICT engineering student, my goal is to complete my studies with a master's degree before embarking on my professional journey.
 
-### Polytechnic University of Milan:
+### Polytechnic University of Milan
+<hr width="96%">
 
 <dl><dt>Managerial projects</dt></dl>
 
@@ -14,7 +15,6 @@ As an ICT engineering student, my goal is to complete my studies with a master's
 | Strategy & Marketing  | **[`L'Oréal Group`](https://github.com/PietroValente/L-Oreal-Group-strategy-marketing)** | PDF |
 | Design Thinking for Business      | **[`SMIRO`](https://github.com/PietroValente/SMIRO-design-thinking-for-business)**      |   PDF |
 | Accounting, Finance & Control | **[`Adidas Financial Analysis`](https://github.com/PietroValente/Adidas-Financial-Analysis-AFC)**      |  PDF |
-   <hr width="96%">
 
 <dl><dt>IT projects</dt></dl>
 
