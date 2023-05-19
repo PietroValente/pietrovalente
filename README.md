@@ -9,7 +9,7 @@ As an ICT engineering student, my goal is to complete my studies with a master's
 
 <dl><dt>Managerial projects</dt></dl>
 
-| <div style="width:290px">Course</div>                | <div style="width:290px">Project name</div>    | <div style="width:290px">Code/Format</div>  |
+| Course           | Project name  | Code/Format  |
 | -------------       |:-------------:  | :-----:|
 | Strategy & Marketing  | **[`L'Oréal Group`](https://github.com/PietroValente/L-Oreal-Group-strategy-marketing)** | PDF |
 | Design Thinking for Business      | **[`SMIRO`](https://github.com/PietroValente/SMIRO-design-thinking-for-business)**      |   PDF |
