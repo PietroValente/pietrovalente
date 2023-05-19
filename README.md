@@ -8,7 +8,7 @@ As an ICT engineering student, my goal is to complete my studies with a master's
 <h2>Polytechnic University of Milan</h2>
 <dl><dt>Managerial projects</dt></dl>
 
-<center>
+<div align="center">
 
 | Course           | Project name  | Code/Format  |
 | -------------       |:-------------:  | :-----:|
@@ -16,7 +16,7 @@ As an ICT engineering student, my goal is to complete my studies with a master's
 | Design Thinking for Business      | **[`SMIRO`](https://github.com/PietroValente/SMIRO-design-thinking-for-business)**      |   PDF |
 | Accounting, Finance & Control | **[`Adidas Financial Analysis`](https://github.com/PietroValente/Adidas-Financial-Analysis-AFC)**      |  PDF |
 
-</center>
+</div>
   
 <dl><dt>IT projects</dt></dl>
 
