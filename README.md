@@ -5,7 +5,7 @@
 
 As an ICT engineering student, my goal is to complete my studies with a master's degree before embarking on my professional journey.
 
-<h2> Polytechnic University of Milan</h2>
+<h2>Polytechnic University of Milan</h2>
 <dl><dt>Managerial projects</dt></dl>
 
 | Course           | Project name  | Code/Format  |
@@ -24,16 +24,14 @@ As an ICT engineering student, my goal is to complete my studies with a master's
 | Multidisciplinary Project               | **[`1001storia`](https://github.com/pietrovalente/1001storia-multidisciplinary-project)**                 |  Go, GoFiber, PostgreSQL, Handbrake, Docker, Yarn |
 | Foundations of Operations Research      | **[`Assignments`](https://github.com/pietrovalente/Assignments-foundations-operations-research)**         |  AMPL |
 
-### Metropolia University of Applied Sciences:
-<hr width="96%">
+<h2>Metropolia University of Applied Sciences</h2>
 <dl><dt>IT project</dt></dl>
 
 | Course                                  | Project name                                                                                              | Code/Format  |
 | -------------                           |:-------------:                                                                                            | -----|
 | Applied WEB Application Security        | **[`WEB Applications Vulnerabilities`](https://github.com/pietrovalente/WEB-applications-vulnerabilities-AWAS)**         |  PHP, SQL, CSS, JavaScript, HTML |
 
-### University of Padua:
-<hr width="96%">
+<h2>University of Padua</h2>
 <dl><dt>IT projects</dt></dl>
 
 | Course                                  | Project name                                                                                              | Code/Format  |
