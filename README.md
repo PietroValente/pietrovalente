@@ -12,10 +12,6 @@ As an ICT engineering student, my goal is to complete my studies with a master's
 | Strategy & Marketing  | **[`L'Oréal Group`](https://github.com/PietroValente/L-Oreal-Group-strategy-marketing)** | PDF |
 | Design Thinking for Business      | **[`SMIRO`](https://github.com/PietroValente/SMIRO-design-thinking-for-business)**      |   PDF |
 | Accounting, Finance & Control | **[`Adidas Financial Analysis`](https://github.com/PietroValente/Adidas-Financial-Analysis-AFC)**      |  PDF |
-
-* Strategy & Marketing: **[`L'Oréal Group`](https://github.com/PietroValente/L-Oreal-Group-strategy-marketing)**
-* Design Thinking for Business: **[`SMIRO`](https://github.com/PietroValente/SMIRO-design-thinking-for-business)**
-* Accounting, Finance & Control: **[`Adidas Financial Analysis`](https://github.com/PietroValente/Adidas-Financial-Analysis-AFC)**
    <hr width="96%">
 * Data Bases 2: **[`TELCO`](https://github.com/pietrovalente/TELCO-Websites-databases2)** [Java, SQL, JSP, CSS, HTML, JavaScript]
 * Performance Evaluation and Applications: **[`Assignments`](https://github.com/pietrovalente/Assignments-performance-evaluation-and-applications)** [MATLAB]
