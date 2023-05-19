@@ -13,7 +13,8 @@ As an ICT engineering student, my goal is to complete my studies with a master's
 | Design Thinking for Business      | **[`SMIRO`](https://github.com/PietroValente/SMIRO-design-thinking-for-business)**      |   PDF |
 | Accounting, Finance & Control | **[`Adidas Financial Analysis`](https://github.com/PietroValente/Adidas-Financial-Analysis-AFC)**      |  PDF |
    <hr width="96%">
-  
+
+| Course                | Project name    | Code/Format  |
 | -------------       |:-------------:  | :-----:|
 | Accounting, Finance & Control | **[`Adidas Financial Analysis`](https://github.com/PietroValente/Adidas-Financial-Analysis-AFC)**      |  PDF |
 
