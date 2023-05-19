@@ -19,7 +19,7 @@ As an ICT engineering student, my goal is to complete my studies with a master's
 <dl><dt>IT projects</dt></dl>
 
 | Course                                  | Project name                                                                                              | Code/Format  |
-| -------------                           |:-------------:                                                                                            | :-----:|
+| -------------                           |:-------------:                                                                                            | -----|
 | Data Bases 2                            | **[`TELCO`](https://github.com/pietrovalente/TELCO-Websites-databases2)**                                 |  Java, SQL, JSP, CSS, HTML, JavaScript |
 | Performance Evaluation and Applications | **[`Assignments`](https://github.com/pietrovalente/Assignments-performance-evaluation-and-applications)** |  MATLAB |
 | Software Engineering 2                  | **[`DREAM`](https://github.com/pietrovalente/DREAM-software-engineering-2)**                              |  Java, SQL, JSP, Python, Alloy, CSS |
