@@ -27,6 +27,8 @@ As an ICT engineering student, my goal is to complete my studies with a master's
 
 ### Metropolia University of Applied Sciences:
 <hr width="96%">
+<dl><dt>IT project</dt></dl>
+
 | Course                                  | Project name                                                                                              | Code/Format  |
 | -------------                           |:-------------:                                                                                            | -----|
 | Applied WEB Application Security        | **[`WEB Applications Vulnerabilities`](https://github.com/pietrovalente/WEB-applications-vulnerabilities-AWAS)**         |  PHP, SQL, CSS, JavaScript, HTML |
