@@ -7,6 +7,8 @@ As an ICT engineering student, my goal is to complete my studies with a master's
 
 ### Polytechnic University of Milan:
 
+<dt>Markdown in HTML</dt>
+
 | Course                | Project name    | Code/Format  |
 | -------------       |:-------------:  | :-----:|
 | Strategy & Marketing  | **[`L'Oréal Group`](https://github.com/PietroValente/L-Oreal-Group-strategy-marketing)** | PDF |
