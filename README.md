@@ -34,6 +34,20 @@ As an ICT engineering student, my goal is to complete my studies with a master's
 | Applied WEB Application Security        | **[`WEB Applications Vulnerabilities`](https://github.com/pietrovalente/WEB-applications-vulnerabilities-AWAS)**         |  PHP, SQL, CSS, JavaScript, HTML |
 
 ### University of Padua:
+<hr width="96%">
+<dl><dt>IT projects</dt></dl>
+
+| Course                                  | Project name                                                                                              | Code/Format  |
+| -------------                           |:-------------:                                                                                            | -----|
+| Thesis | **[`Spoofing GPS`](https://github.com/pietrovalente/Spoofing-GPS-thesis)** | PDF |
+| Thesis | **[`BluetoothRSSIFinder App`](https://github.com/pietrovalente/BluetoothRSSIFinder-app-thesis)** | Kotlin |
+| Programming of Embedded Systems | **[`ChorusChecker App`](https://github.com/pietrovalente/ChorusChecker-app-programming-embedded-systems)** | Kotlin |
+| Multimedia | **[`Voice Activity Detection`](https://github.com/pietrovalente/Voice-Activity-Detection-multimedia)** | C++ |
+| History of Information Technology | **[`Localization`](https://github.com/pietrovalente/Localization-history-information-technology)** | PDF |
+| Fundamentals of Electronics | **[`SPICE Simulations`](https://github.com/pietrovalente/SPICE-simulations-fundamentals-of-electronics)** | LTSpice |
+| Computer Networks | **[`Web Code`](https://github.com/pietrovalente/Web-Code-computer-networks)** | C |
+| Software Engineering | **[`Fantasy Game`](https://github.com/pietrovalente/fantasy-game-software-engineering)** | Java |
+| Software Engineering | **[`Adapter Pattern`](https://github.com/pietrovalente/adapter-pattern-software-engineering)** | Java |
 
 * Thesis: **[`Spoofing GPS`](https://github.com/pietrovalente/Spoofing-GPS-thesis)**, **[`BluetoothRSSIFinder App`](https://github.com/pietrovalente/BluetoothRSSIFinder-app-thesis)** [Kotlin]
 * Programming of Embedded Systems: **[`ChorusChecker App`](https://github.com/pietrovalente/ChorusChecker-app-programming-embedded-systems)** [Kotlin]
@@ -42,18 +56,3 @@ As an ICT engineering student, my goal is to complete my studies with a master's
 * Fundamentals of Electronics: **[`SPICE Simulations`](https://github.com/pietrovalente/SPICE-simulations-fundamentals-of-electronics)** [LTSpice]
 * Computer Networks: **[`Web Code`](https://github.com/pietrovalente/Web-Code-computer-networks)** [C]
 * Software Engineering: **[`Fantasy Game`](https://github.com/pietrovalente/fantasy-game-software-engineering)**, **[`Adapter Pattern`](https://github.com/pietrovalente/adapter-pattern-software-engineering)** [Java]
-
-<!--
-**PietroValente/pietrovalente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
