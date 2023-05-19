@@ -7,6 +7,12 @@ As an ICT engineering student, my goal is to complete my studies with a master's
 
 ### Polytechnic University of Milan:
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 * Strategy & Marketing: **[`L'Oréal Group`](https://github.com/PietroValente/L-Oreal-Group-strategy-marketing)**
 * Design Thinking for Business: **[`SMIRO`](https://github.com/PietroValente/SMIRO-design-thinking-for-business)**
 * Accounting, Finance & Control: **[`Adidas Financial Analysis`](https://github.com/PietroValente/Adidas-Financial-Analysis-AFC)**
