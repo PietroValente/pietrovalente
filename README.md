@@ -48,11 +48,3 @@ As an ICT engineering student, my goal is to complete my studies with a master's
 | Computer Networks | **[`Web Code`](https://github.com/pietrovalente/Web-Code-computer-networks)** | C |
 | Software Engineering | **[`Fantasy Game`](https://github.com/pietrovalente/fantasy-game-software-engineering)** | Java |
 | Software Engineering | **[`Adapter Pattern`](https://github.com/pietrovalente/adapter-pattern-software-engineering)** | Java |
-
-* Thesis: **[`Spoofing GPS`](https://github.com/pietrovalente/Spoofing-GPS-thesis)**, **[`BluetoothRSSIFinder App`](https://github.com/pietrovalente/BluetoothRSSIFinder-app-thesis)** [Kotlin]
-* Programming of Embedded Systems: **[`ChorusChecker App`](https://github.com/pietrovalente/ChorusChecker-app-programming-embedded-systems)** [Kotlin]
-* Multimedia: **[`Voice Activity Detection`](https://github.com/pietrovalente/Voice-Activity-Detection-multimedia)** [C++]
-* History of Information Technology: **[`Localization`](https://github.com/pietrovalente/Localization-history-information-technology)**
-* Fundamentals of Electronics: **[`SPICE Simulations`](https://github.com/pietrovalente/SPICE-simulations-fundamentals-of-electronics)** [LTSpice]
-* Computer Networks: **[`Web Code`](https://github.com/pietrovalente/Web-Code-computer-networks)** [C]
-* Software Engineering: **[`Fantasy Game`](https://github.com/pietrovalente/fantasy-game-software-engineering)**, **[`Adapter Pattern`](https://github.com/pietrovalente/adapter-pattern-software-engineering)** [Java]
