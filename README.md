@@ -9,7 +9,7 @@ As an ICT engineering student, my goal is to complete my studies with a master's
 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
+| Strategy & Marketing| right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
