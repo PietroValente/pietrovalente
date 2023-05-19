@@ -7,7 +7,7 @@ As an ICT engineering student, my goal is to complete my studies with a master's
 
 ### Polytechnic University of Milan:
 
-<dt>Markdown in HTML</dt>
+<dl><dt>Markdown in HTML</dt></dl>
 
 | Course                | Project name    | Code/Format  |
 | -------------       |:-------------:  | :-----:|
