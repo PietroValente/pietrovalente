@@ -5,7 +5,7 @@
 
 As an ICT engineering student, my goal is to complete my studies with a master's degree before embarking on my professional journey.
 
-### Polytechnic University of Milan
+<h1> Polytechnic University of Milan</h1>
 <hr width="96%">
 <dl><dt>Managerial projects</dt></dl>
 
