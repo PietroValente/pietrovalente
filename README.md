@@ -10,6 +10,7 @@ As an ICT engineering student, my goal is to complete my studies with a master's
 
 | Course           | Project name  | Code/Format  |
 | -------------       |:-------------:  | :-----:|
+| Agile Innovation  | **[`LIDL`](https://github.com/PietroValente/LIDL-agile-innovation)** | PDF |
 | Strategy & Marketing  | **[`L'Oréal Group`](https://github.com/PietroValente/L-Oreal-Group-strategy-marketing)** | PDF |
 | Design Thinking for Business      | **[`SMIRO`](https://github.com/PietroValente/SMIRO-design-thinking-for-business)**      |   PDF |
 | Accounting, Finance & Control | **[`Adidas Financial Analysis`](https://github.com/PietroValente/Adidas-Financial-Analysis-AFC)**      |  PDF |
