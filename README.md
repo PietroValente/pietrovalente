@@ -8,13 +8,13 @@ If you have any doubts or questions regarding a project, please don't hesitate t
 
 Feel free to visit me on my LinkedIn profile and my personal website as well :)
 
-<div align="center">
-<br>
+<div align="center"><br>
+
 [![PersonalWebsite](https://img.shields.io/badge/PersonalWebsite-3A486D?style=flat&logo=webmoney&logoColor=white)](https://pietrovalente.github.io)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pietrovalente/)
 [![YahooMail](https://img.shields.io/badge/YahooMail-blueviolet?style=flat&logo=yahoo&logoColor=white)](mailto:pietro.valente@yahoo.com)
-<br>
-</div>
+
+<br></div>
 
 <h2>Polytechnic University of Milan</h2>
 <dl><dt>Managerial projects</dt></dl>
