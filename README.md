@@ -3,7 +3,13 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pietrovalente/)
 [![YahooMail](https://img.shields.io/badge/YahooMail-blueviolet?style=flat&logo=yahoo&logoColor=white)](mailto:pietro.valente@yahoo.com)
 
-On this profile, you can find all the projects I have developed throughout my academic journey and beyond. Further down, in the "Pinned" section, you can discover the ones that I consider to be the most significant.
+I strongly believe in the power of **knowledge sharing**, I consider **crowdsourcing** to be the true **key** to the **success** of a project.
+
+I personally have often drawn inspiration from projects shared on GitHub, and for this reason, I feel it is fair and necessary to share all the projects I have developed throughout my academic journey and beyond. Further down, in the "Pinned" section, you can discover the ones that I consider to be the most significant.
+
+If you have any doubts or questions regarding a project, please don't hesitate to contact me! I am available to assist you.
+
+Feel free to visit me on my LinkedIn profile and my personal website as well :)
 
 <h2>Polytechnic University of Milan</h2>
 <dl><dt>Managerial projects</dt></dl>
