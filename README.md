@@ -10,6 +10,9 @@ As an ICT engineering student, my goal is to complete my studies with a master's
 
 | Course           | Project name  | Code/Format  |
 | -------------       |:-------------:  | :-----:|
+| Master Thesis | soon! | PDF |
+| Master Thesis | soon! | Code |
+| Platform Thinking  | **[`Bullpadel`](https://github.com/PietroValente/Bullpadel-platform-thinking)** | PDF |
 | Agile Innovation  | **[`LIDL`](https://github.com/PietroValente/LIDL-agile-innovation)** | PDF |
 | Strategy & Marketing  | **[`L'Oréal Group`](https://github.com/PietroValente/L-Oreal-Group-strategy-marketing)** | PDF |
 | Design Thinking for Business      | **[`SMIRO`](https://github.com/PietroValente/SMIRO-design-thinking-for-business)**      |   PDF |
@@ -37,8 +40,8 @@ As an ICT engineering student, my goal is to complete my studies with a master's
 
 | Course                                  | Project name                                                                                              | Code/Format  |
 | -------------                           |:-------------:                                                                                            | -----|
-| Thesis | **[`Spoofing GPS`](https://github.com/pietrovalente/Spoofing-GPS-thesis)** | PDF |
-| Thesis | **[`BluetoothRSSIFinder App`](https://github.com/pietrovalente/BluetoothRSSIFinder-app-thesis)** | Kotlin |
+| Bachelor Thesis | **[`Spoofing GPS`](https://github.com/pietrovalente/Spoofing-GPS-thesis)** | PDF |
+| Bachelor Thesis | **[`BluetoothRSSIFinder App`](https://github.com/pietrovalente/BluetoothRSSIFinder-app-thesis)** | Kotlin |
 | Programming of Embedded Systems | **[`ChorusChecker App`](https://github.com/pietrovalente/ChorusChecker-app-programming-embedded-systems)** | Kotlin |
 | Multimedia | **[`Voice Activity Detection`](https://github.com/pietrovalente/Voice-Activity-Detection-multimedia)** | C++ |
 | History of Information Technology | **[`Localization`](https://github.com/pietrovalente/Localization-history-information-technology)** | PDF |
