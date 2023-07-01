@@ -1,10 +1,10 @@
 ### Ciao! 👋:pizza::pinched_fingers:
 
+I strongly believe in the power of **knowledge sharing**, I consider **crowdsourcing** to be the true **key** to the **success** of a project.
+
 [![PersonalWebsite](https://img.shields.io/badge/PersonalWebsite-3A486D?style=flat&logo=webmoney&logoColor=white)](https://pietrovalente.github.io)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pietrovalente/)
 [![YahooMail](https://img.shields.io/badge/YahooMail-blueviolet?style=flat&logo=yahoo&logoColor=white)](mailto:pietro.valente@yahoo.com)
-
-I strongly believe in the power of **knowledge sharing**, I consider **crowdsourcing** to be the true **key** to the **success** of a project.
 
 I personally have often drawn inspiration from projects shared on GitHub, and for this reason, I feel it is fair and necessary to share all the projects I have developed throughout my academic journey and beyond on this profile. Further down, in the "Pinned" section, you can discover the ones that I consider to be the most significant.
 
