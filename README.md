@@ -24,8 +24,6 @@ Feel free to visit me on my LinkedIn profile and my personal website as well :)
 
 | Course           | Project name  | Code/Format  |
 | -------------       |:-------------:  | :-----:|
-| Master Thesis | soon! | PDF |
-| Master Thesis | soon! | Code |
 | Platform Thinking  | **[`Bullpadel`](https://github.com/PietroValente/Bullpadel-platform-thinking)** | PDF |
 | Agile Innovation  | **[`LIDL`](https://github.com/PietroValente/LIDL-agile-innovation)** | PDF |
 | Strategy & Marketing  | **[`L'Oréal Group`](https://github.com/PietroValente/L-Oreal-Group-strategy-marketing)** | PDF |
@@ -36,6 +34,8 @@ Feel free to visit me on my LinkedIn profile and my personal website as well :)
 
 | Course                                  | Project name                                                                                              | Code/Format  |
 | -------------                           |:-------------:                                                                                            | -----|
+| Master Thesis | soon! | PDF |
+| Master Thesis | soon! | Code |
 | Data Bases 2                            | **[`TELCO`](https://github.com/pietrovalente/TELCO-Websites-databases2)**                                 |  Java, SQL, JSP, CSS, HTML, JavaScript |
 | Performance Evaluation and Applications | **[`Assignments`](https://github.com/pietrovalente/Assignments-performance-evaluation-and-applications)** |  MATLAB |
 | Software Engineering 2                  | **[`DREAM`](https://github.com/pietrovalente/DREAM-software-engineering-2)**                              |  Java, SQL, JSP, Python, Alloy, CSS |
