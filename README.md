@@ -20,17 +20,7 @@ Feel free to visit me on my LinkedIn profile and my personal website as well :)
 <br></div>
 
 <h2>Polytechnic University of Milan</h2>
-<dl><dt>Managerial projects</dt></dl>
-
-| Course           | Project name  | Code/Format  |
-| -------------       |:-------------:  | :-----:|
-| Platform Thinking  | **[`Bullpadel`](https://github.com/PietroValente/Bullpadel-platform-thinking)** | PDF |
-| Agile Innovation  | **[`LIDL`](https://github.com/PietroValente/LIDL-agile-innovation)** | PDF |
-| Strategy & Marketing  | **[`L'Oréal Group`](https://github.com/PietroValente/L-Oreal-Group-strategy-marketing)** | PDF |
-| Design Thinking for Business      | **[`SMIRO`](https://github.com/PietroValente/SMIRO-design-thinking-for-business)**      |   PDF |
-| Accounting, Finance & Control | **[`Adidas Financial Analysis`](https://github.com/PietroValente/Adidas-Financial-Analysis-AFC)**      |  PDF |
-  
-<dl><dt>IT projects</dt></dl>
+<dl><dt>IT projects </dt></dl>
 
 | Course                                  | Project name                                                                                              | Code/Format  |
 | -------------                           |:-------------:                                                                                            | -----|
@@ -41,6 +31,16 @@ Feel free to visit me on my LinkedIn profile and my personal website as well :)
 | Software Engineering 2                  | **[`DREAM`](https://github.com/pietrovalente/DREAM-software-engineering-2)**                              |  Java, SQL, JSP, Python, Alloy, CSS |
 | Multidisciplinary Project               | **[`1001storia`](https://github.com/pietrovalente/1001storia-multidisciplinary-project)**                 |  Go, GoFiber, PostgreSQL, Handbrake, Docker, Yarn |
 | Foundations of Operations Research      | **[`Assignments`](https://github.com/pietrovalente/Assignments-foundations-operations-research)**         |  AMPL |
+  
+<dl><dt>Managerial projects</dt></dl>
+
+| Course           | Project name  | Code/Format  |
+| -------------       |:-------------:  | :-----:|
+| Platform Thinking  | **[`Bullpadel`](https://github.com/PietroValente/Bullpadel-platform-thinking)** | PDF |
+| Agile Innovation  | **[`LIDL`](https://github.com/PietroValente/LIDL-agile-innovation)** | PDF |
+| Strategy & Marketing  | **[`L'Oréal Group`](https://github.com/PietroValente/L-Oreal-Group-strategy-marketing)** | PDF |
+| Design Thinking for Business      | **[`SMIRO`](https://github.com/PietroValente/SMIRO-design-thinking-for-business)**      |   PDF |
+| Accounting, Finance & Control | **[`Adidas Financial Analysis`](https://github.com/PietroValente/Adidas-Financial-Analysis-AFC)**      |  PDF |
 
 <h2>Metropolia University of Applied Sciences</h2>
 <dl><dt>IT project</dt></dl>
