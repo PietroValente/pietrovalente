@@ -25,7 +25,7 @@ Feel free to visit me on my LinkedIn profile and my personal website as well :)
 | Course                                  | Project name                                                                                              | Code/Format  |
 | -------------                           |:-------------:                                                                                            | -----|
 | Master Thesis | soon! | PDF |
-| Master Thesis | soon! | Code |
+| Master Thesis | soon! | More code |
 | Master Thesis | **[`CacheHLS`](https://github.com/PietroValente/CacheHLS-thesis)**         | C++ |
 | Master Thesis | **[`ServerHLS`](https://github.com/PietroValente/ServerHLS-thesis)**         | C++ |
 | Data Bases 2                            | **[`TELCO`](https://github.com/pietrovalente/TELCO-Websites-databases2)**                                 |  Java, SQL, JSP, CSS, HTML, JavaScript |
