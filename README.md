@@ -19,6 +19,11 @@ Feel free to visit me on my LinkedIn profile and my personal website as well :)
 
 <br></div>
 
+<h2>Personal projects</h2>
+| Project name | Code/Format  |
+|:-------------:| -----|
+| **[`Personal Website Code`](https://github.com/PietroValente/pietrovalente.github.io)** |  HTML, JavaScript, CSS |
+
 <h2>Polytechnic University of Milan</h2>
 <dl><dt>IT projects </dt></dl>
 
@@ -29,9 +34,9 @@ Feel free to visit me on my LinkedIn profile and my personal website as well :)
 | Master Thesis | **[`LOS`](https://github.com/PietroValente/LOS-thesis)**         | MATLAB |
 | Master Thesis | **[`CacheHLS`](https://github.com/PietroValente/CacheHLS-thesis)**         | C++ |
 | Master Thesis | **[`ServerHLS`](https://github.com/PietroValente/ServerHLS-thesis)**         | C++ |
-| Data Bases 2                            | **[`TELCO`](https://github.com/pietrovalente/TELCO-Websites-databases2)**                                 |  Java, SQL, JSP, CSS, HTML, JavaScript |
+| Data Bases 2                            | **[`TELCO`](https://github.com/pietrovalente/TELCO-Websites-databases2)**                                 |  Java, SQL, JSP, CSS, HTML, JavaScript, CSS |
 | Performance Evaluation and Applications | **[`Assignments`](https://github.com/pietrovalente/Assignments-performance-evaluation-and-applications)** |  MATLAB |
-| Software Engineering 2                  | **[`DREAM`](https://github.com/pietrovalente/DREAM-software-engineering-2)**                              |  Java, SQL, JSP, Python, Alloy, CSS |
+| Software Engineering 2                  | **[`DREAM`](https://github.com/pietrovalente/DREAM-software-engineering-2)**                              |  Java, SQL, JSP, Python, Alloy, HTML, CSS |
 | Multidisciplinary Project               | **[`1001storia`](https://github.com/pietrovalente/1001storia-multidisciplinary-project)**                 |  Go, GoFiber, PostgreSQL, Handbrake, Docker, Yarn |
 | Foundations of Operations Research      | **[`Assignments`](https://github.com/pietrovalente/Assignments-foundations-operations-research)**         |  AMPL |
   
