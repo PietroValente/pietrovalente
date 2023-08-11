@@ -20,6 +20,7 @@ Feel free to visit me on my LinkedIn profile and my personal website as well :)
 <br></div>
 
 <h2>Personal projects</h2>
+
 | Project name | Code/Format  |
 |:-------------:| -----|
 | **[`Personal Website Code`](https://github.com/PietroValente/pietrovalente.github.io)** |  HTML, JavaScript, CSS |
