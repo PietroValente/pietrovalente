@@ -30,7 +30,7 @@ Feel free to visit me on my LinkedIn profile and my personal website as well :)
 
 | Course                                  | Project name                                                                                              | Code/Format  |
 | -------------                           |:-------------:                                                                                            | -----|
-| Master Thesis | **[`5G Broadcast for Mobile Video Streaming`](https://github.com/PietroValente/5G-Broadcast-for-Mobile-Video-Streaming-thesis)** | PDF |
+| Master Thesis | **[`5G Broadcast for <br> Mobile Video Streaming`](https://github.com/PietroValente/5G-Broadcast-for-Mobile-Video-Streaming-thesis)** | PDF |
 | Master Thesis | **[`LOS`](https://github.com/PietroValente/LOS-thesis)**         | MATLAB |
 | Master Thesis | **[`CacheHLS`](https://github.com/PietroValente/CacheHLS-thesis)**         | C++ |
 | Master Thesis | **[`ServerHLS`](https://github.com/PietroValente/ServerHLS-thesis)**         | C++ |
