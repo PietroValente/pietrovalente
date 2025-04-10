@@ -22,7 +22,8 @@ Feel free to visit me on my LinkedIn profile and my personal website as well :)
 <h2>Personal projects</h2>
 
 | Project name | Code/Format  |
-|:-------------:| -----|
+|:-------------:| -----| 
+| **[`BinanceOrderBook`](https://github.com/PietroValente/BinanceOrderBook)** |  C++ |
 | **[`Personal Website Code`](https://github.com/PietroValente/pietrovalente.github.io)** |  HTML, JavaScript, CSS |
 
 <h2>Polytechnic University of Milan</h2>
