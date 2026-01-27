@@ -9,8 +9,6 @@ I personally have often drawn inspiration from projects shared on GitHub, and fo
 
 If you have any doubts or questions regarding a project, please don't hesitate to contact me! I am available to assist you.
 
-Feel free to visit me on my LinkedIn profile and my personal website as well :)
-
 <div align="center"><br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pietrovalente/)
