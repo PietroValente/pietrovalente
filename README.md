@@ -13,6 +13,7 @@ If you have any doubts or questions regarding a project, please don't hesitate t
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pietrovalente/)
 [![YahooMail](https://img.shields.io/badge/YahooMail-blueviolet?style=flat&logo=yahoo&logoColor=white)](mailto:pietro.valente@yahoo.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-coverage-75%25-orange)](https://leetcode.com/u/soooty/)
 
 <br></div>
 
