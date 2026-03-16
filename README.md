@@ -21,6 +21,7 @@ If you have any doubts or questions regarding a project, please don't hesitate t
 
 | Project name | Code/Format  |
 |:-------------:| -----| 
+| **[`MarketDataAggregator`](https://github.com/PietroValente/MarketDataAggregator)** |  Rust, CQL |
 | **[`BinanceOrderBook`](https://github.com/PietroValente/BinanceOrderBook)** |  C++ |
 | **[`Personal Website Code`](https://github.com/PietroValente/pietrovalente.github.io)** |  HTML, JavaScript, CSS |
 
