@@ -23,7 +23,7 @@ If you have any doubts or questions regarding a project, please don't hesitate t
 |:-------------:| -----| 
 | **[`MarketDataAggregator`](https://github.com/PietroValente/MarketDataAggregator)** |  Rust, CQL |
 | **[`BinanceOrderBook`](https://github.com/PietroValente/BinanceOrderBook)** |  C++ |
-| **[`Personal Website Code`](https://github.com/PietroValente/pietrovalente.github.io)** |  HTML, JavaScript, CSS |
+| **[`Personal Website`](https://github.com/PietroValente/pietrovalente.github.io)** |  HTML, JavaScript, CSS |
 
 <h2>Polytechnic University of Milan</h2>
 <dl><dt>IT projects </dt></dl>
