@@ -19,9 +19,9 @@ If you have any doubts or questions regarding a project, please don't hesitate t
 
 <h2>Personal projects</h2>
 
-| Project name | Code/Format  |
+| Project name | Stack  |
 |:-------------:| -----| 
-| **[`MarketDataAggregator`](https://github.com/PietroValente/MarketDataAggregator)** |  Rust, CQL |
+| **[`MarketDataAggregator`](https://github.com/PietroValente/MarketDataAggregator)** |  Rust, ScyllaDB |
 | **[`BinanceOrderBook`](https://github.com/PietroValente/BinanceOrderBook)** |  C++ |
 | **[`Personal Website`](https://github.com/PietroValente/pietrovalente.github.io)** |  HTML, JavaScript, CSS |
 
