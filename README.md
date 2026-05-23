@@ -14,7 +14,7 @@ Software engineer focused on performance-critical systems — Rust, C++, distrib
 
 ## What I work with
 
-**Languages** — `Rust` · `C++` · `TypeScript`
+**Programming languages** — `Rust` · `C++` · `TypeScript`
 
 **Backend & Systems** — `async/event-driven architectures` · `WebSockets` · `REST` · `gRPC` · `NATS` · `low-latency systems`
 
