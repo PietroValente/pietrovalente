@@ -24,32 +24,29 @@ Software engineer focused on performance-critical systems — Rust, C++, distrib
 
 ---
 
-## Projects
+## Main projects
 
-**[MarketDataAggregator](https://github.com/your-username/MarketDataAggregator)**  
-High-throughput market data pipeline with sub-millisecond aggregation, built on ScyllaDB for time-series storage at scale.  
-`Rust` `ScyllaDB`
-
-**[BinanceOrderBook](https://github.com/your-username/BinanceOrderBook)**  
-Real-time order book consuming Binance WebSocket feeds. Optimized for low-latency processing.  
-`C++`
-
-**[JobLedger](https://github.com/your-username/JobLedger)**  
-Production-grade backend with layered architecture, JWT + refresh token sessions, and full Dockerization.  
+**[JobLedger](https://github.com/PietroValente/JobLedger)**  
+A job application tracker with production-grade auth and modular architecture. 
 `TypeScript` `Fastify` `PostgreSQL` `Prisma` `Docker`
 
-**[CacheHLS / ServerHLS](https://github.com/your-username/CacheHLS)**  
-Master's thesis: custom HLS server and caching layer for 5G Broadcast mobile video streaming.  
+**[MarketDataAggregator](https://github.com/PietroValente/MarketDataAggregator)**  
+Market data engine for real-time multi-exchange order book aggregation, querying, and observability.
+`Rust` `ScyllaDB`
+
+**[BinanceOrderBook](https://github.com/PietroValente/BinanceOrderBook)**  
+Local reconstruction of the BTC/USDT order book using Binance APIs to simulate a trading platform’s matching engine and provide a real-time market view. 
+`C++`
+
+**[CacheHLS](https://github.com/PietroValente/CacheHLS)**  
+A cache for HLS live streaming over broadband with customizable delay, improving streaming stability and efficiency using a dynamic data structure.  
 `C++` `5G` `HLS`
 
-**[BluetoothRSSIFinder](https://github.com/your-username/BluetoothRSSIFinder)**  
-Android app for BLE-based indoor localization using RSSI fingerprinting.  
-`Kotlin` `BLE`
+**[BluetoothRSSIFinder](https://github.com/PietroValente/BluetoothRSSIFinder)**  
+App that records Received Signal Strength Indicator (RSSI) values from another device.
+`Kotlin`
 
-**[1001storia](https://github.com/your-username/1001storia)**  
-Full-stack platform built during a multidisciplinary project. REST API, video processing pipeline, containerized deployment.  
-`Go` `GoFiber` `PostgreSQL` `Docker`
+**[VoiceActivityDetection](https://github.com/PietroValente/Voice-Activity-Detection)**  
+Script with the aim of eliminating the noise present in an audio in moments of silence, recognizing when a person speaks and when there is only noise.  
+`C++`
 
----
-
-MSc Computer Engineering · Politecnico di Milano &nbsp;·&nbsp; Exchange · Metropolia UAS &nbsp;·&nbsp; BSc · Università di Padova
