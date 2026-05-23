@@ -13,6 +13,14 @@ Software engineer focused on performance-critical systems — Rust, C++, distrib
 
 <br></div>
 
+## What I work with
+ 
+`Rust` `C++` `Go` `Java` `Kotlin` `TypeScript`  
+`ScyllaDB` `PostgreSQL` `Docker`  
+`5G / Video Streaming` `Embedded Systems` `Distributed Systems`
+ 
+---
+
 <h2>Personal projects</h2>
 
 | Project name | Stack  |
