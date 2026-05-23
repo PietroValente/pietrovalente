@@ -1,10 +1,17 @@
+<div align="center">
+  
 ### Ciao! 👋🍕🖐️
+</div>
 
 Software engineer focused on performance-critical systems — Rust, C++, distributed systems and backend. I build tools I'd want to use, and share everything I learn along the way.
+
+<div align="center"><br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pietrovalente/)
 [![YahooMail](https://img.shields.io/badge/YahooMail-blueviolet?style=flat&logo=yahoo&logoColor=white)](mailto:pietro.valente@yahoo.com)
 [![LeetCode](https://img.shields.io/badge/Leet-Code-orange)](https://leetcode.com/u/soooty/)
+
+<br></div>
 
 ---
 
