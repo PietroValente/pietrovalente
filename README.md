@@ -28,7 +28,7 @@ Software engineer focused on performance-critical systems — Rust, C++, distrib
 
 **[JobLedger](https://github.com/PietroValente/JobLedger)**  
 A job application tracker with production-grade auth and modular architecture.  
-`TypeScript` `Fastify` `PostgreSQL` `Prisma` `Docker`
+`TypeScript` `Node.js` `Fastify` `Prisma` `PostgreSQL` `Docker`
 
 **[MarketDataAggregator](https://github.com/PietroValente/MarketDataAggregator)**  
 Market data engine for real-time multi-exchange order book aggregation, querying, and observability.  
