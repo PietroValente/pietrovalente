@@ -3,11 +3,7 @@
 ### Ciao! 👋🍕🖐️
 </div>
 
-I strongly believe in the power of **knowledge sharing**, I consider **crowdsourcing** to be the true **key** to the **success** of a project.
-
-I personally have often drawn inspiration from projects shared on GitHub, and for this reason, I feel it is fair and necessary to share all the projects I have developed throughout my academic journey and beyond on this profile. Further down, in the "Pinned" section, you can discover the ones that I consider to be the most significant.
-
-If you have any doubts or questions regarding a project, please don't hesitate to contact me! I am available to assist you.
+Software engineer focused on performance-critical systems — Rust, C++, distributed systems and backend. I build tools I'd want to use, and share everything I learn along the way.
 
 <div align="center"><br>
 
