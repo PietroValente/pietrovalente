@@ -16,11 +16,11 @@ Software engineer focused on performance-critical systems — Rust, C++, distrib
 
 **Languages** — `Rust` · `C++` · `TypeScript`
 
-**Backend & Systems** — async/event-driven architectures · WebSockets · REST · gRPC · NATS · low-latency systems
+**Backend & Systems** — `async/event-driven architectures` · `WebSockets` · `REST` · `gRPC` · `NATS` · `low-latency systems`
 
-**Databases** — ScyllaDB · PostgreSQL · MongoDB
+**Databases** — `ScyllaDB` · `PostgreSQL` · `MongoDB`
 
-**Infrastructure** — Docker · Kubernetes · GCP
+**Infrastructure** — `Docker` · `Kubernetes` · `GCP`
 
 ---
 
