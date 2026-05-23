@@ -1,7 +1,4 @@
-<div align="center">
-  
 ### Ciao! 👋🍕🖐️
-</div>
 
 Software engineer focused on performance-critical systems — Rust, C++, distributed systems and backend. I build tools I'd want to use, and share everything I learn along the way.
 
@@ -17,9 +14,13 @@ Software engineer focused on performance-critical systems — Rust, C++, distrib
 
 ## What I work with
 
-`Rust` `C++` `Go` `Java` `Kotlin` `TypeScript`  
-`ScyllaDB` `PostgreSQL` `Docker`  
-`5G / Video Streaming` `Embedded Systems` `Distributed Systems`
+**Languages** — Rust · C++ · TypeScript · SQL
+
+**Backend & Systems** — async/event-driven architectures · WebSockets · REST · gRPC · NATS · low-latency systems
+
+**Databases** — ScyllaDB · PostgreSQL · MongoDB
+
+**Infrastructure** — Docker · Kubernetes · GCP
 
 ---
 
