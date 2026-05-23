@@ -11,7 +11,7 @@ Software engineer focused on performance-critical systems — Rust, C++, distrib
 [![YahooMail](https://img.shields.io/badge/YahooMail-blueviolet?style=flat&logo=yahoo&logoColor=white)](mailto:pietro.valente@yahoo.com)
 [![LeetCode](https://img.shields.io/badge/Leet-Code-orange)](https://leetcode.com/u/soooty/)
 
-<br></div>
+</div>
 
 ---
 
