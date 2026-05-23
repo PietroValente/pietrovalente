@@ -27,15 +27,15 @@ Software engineer focused on performance-critical systems — Rust, C++, distrib
 ## Main projects
 
 **[JobLedger](https://github.com/PietroValente/JobLedger)**  
-A job application tracker with production-grade auth and modular architecture. 
+A job application tracker with production-grade auth and modular architecture.  
 `TypeScript` `Fastify` `PostgreSQL` `Prisma` `Docker`
 
 **[MarketDataAggregator](https://github.com/PietroValente/MarketDataAggregator)**  
-Market data engine for real-time multi-exchange order book aggregation, querying, and observability.
+Market data engine for real-time multi-exchange order book aggregation, querying, and observability.  
 `Rust` `ScyllaDB`
 
 **[BinanceOrderBook](https://github.com/PietroValente/BinanceOrderBook)**  
-Local reconstruction of the BTC/USDT order book using Binance APIs to simulate a trading platform’s matching engine and provide a real-time market view. 
+Local reconstruction of the BTC/USDT order book using Binance APIs to simulate a trading platform’s matching engine and provide a real-time market view.  
 `C++`
 
 **[CacheHLS](https://github.com/PietroValente/CacheHLS)**  
@@ -43,7 +43,7 @@ A cache for HLS live streaming over broadband with customizable delay, improving
 `C++` `5G` `HLS`
 
 **[BluetoothRSSIFinder](https://github.com/PietroValente/BluetoothRSSIFinder)**  
-App that records Received Signal Strength Indicator (RSSI) values from another device.
+App that records Received Signal Strength Indicator (RSSI) values from another device.  
 `Kotlin`
 
 **[VoiceActivityDetection](https://github.com/PietroValente/Voice-Activity-Detection)**  
