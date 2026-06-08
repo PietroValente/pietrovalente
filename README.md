@@ -14,11 +14,11 @@ Software engineer focused on performance-critical systems — Rust, C++, distrib
 
 ## What I work with
 
-**Programming languages** — `Rust` · `C++` · `TypeScript`
+**Programming languages** — `Rust` · `C++` · `TypeScript` · `Python`
 
 **Backend & Systems** — `async/event-driven architectures` · `WebSockets` · `REST` · `gRPC` · `NATS` · `low-latency systems`
 
-**Databases** — `ScyllaDB` · `PostgreSQL` · `MongoDB`
+**Databases** — `ScyllaDB` · `PostgreSQL` · `MongoDB` · `SQLite`
 
 **Infrastructure** — `Docker` · `Kubernetes` · `GCP`
 
