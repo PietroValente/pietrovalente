@@ -27,7 +27,7 @@ Software engineer focused on performance-critical systems — Rust, C++, distrib
 ## Main projects
 
 **[ATS-bridge](https://github.com/PietroValente/ATS-bridge)**  
-Candidate ingestion pipeline with adapter registry for multi-ATS support and incremental sync with end-to-end idempotency.
+Candidate ingestion pipeline with adapter registry for multi-ATS support and incremental sync with end-to-end idempotency.  
 `Python` `Django` `FastAPI` `gRPC` `Redis` `SQLite` `Docker`
 
 **[JobLedger](https://github.com/PietroValente/JobLedger)**  
