@@ -1,6 +1,6 @@
 ### Ciao! 👋🍕🖐️
 
-Software engineer focused on performance-critical systems — Rust, C++, distributed systems and backend. I build tools I'd want to use, and share everything I learn along the way.
+Software engineer working across performance-critical systems and AI-driven backends, from low-latency engines in Rust and C++ to multi-tenant AI agents and distributed data pipelines. I build tools I'd want to use, and share everything I learn along the way.
 
 <div align="center"><br>
 
@@ -18,7 +18,9 @@ Software engineer focused on performance-critical systems — Rust, C++, distrib
 
 **Backend & Systems** — `async/event-driven architectures` · `WebSockets` · `REST` · `gRPC` · `NATS` · `low-latency systems`
 
-**Databases** — `ScyllaDB` · `PostgreSQL` · `MongoDB` · `SQLite`
+**AI & Agents** — `LLM agents` · `tool-calling` · `sandboxed code execution` · `multi-tenant RLS`
+
+**Data & Storage** — `ScyllaDB` · `PostgreSQL` · `Redis` · `MongoDB` · `SQLite`
 
 **Infrastructure** — `Docker` · `Kubernetes` · `GCP`
 
@@ -26,21 +28,17 @@ Software engineer focused on performance-critical systems — Rust, C++, distrib
 
 ## Main projects
 
-**[ATS-bridge](https://github.com/PietroValente/ATS-bridge)**  
-Candidate ingestion pipeline with adapter registry for multi-ATS support and incremental sync with end-to-end idempotency.  
-`Python` `Django` `FastAPI` `gRPC` `Redis` `SQLite` `Docker`
-
-**[JobLedger](https://github.com/PietroValente/JobLedger)**  
-A job application tracker with production-grade auth and modular architecture.  
-`TypeScript` `Node.js` `Fastify` `Prisma` `PostgreSQL` `Docker`
+**[plantwise](https://github.com/PietroValente/plantwise)**  
+Multi-tenant AI assistant for renewable-energy operators: chat in plain language about plant data while the agent queries Postgres, runs sandboxed Python, and generates PDF/Excel/Word reports — with tenant isolation enforced in the database, not in prompts.  
+`Python` `FastAPI` `React` `PostgreSQL` `LLM agents` `Docker`
 
 **[MarketDataAggregator](https://github.com/PietroValente/MarketDataAggregator)**  
 Market data engine for real-time multi-exchange order book aggregation, querying, and observability.  
 `Rust` `ScyllaDB`
 
-**[BinanceOrderBook](https://github.com/PietroValente/BinanceOrderBook)**  
-Local reconstruction of the BTC/USDT order book using Binance APIs to simulate a trading platform’s matching engine and provide a real-time market view.  
-`C++`
+**[ATS-bridge](https://github.com/PietroValente/ATS-bridge)**  
+Candidate ingestion pipeline with adapter registry for multi-ATS support and incremental sync with end-to-end idempotency.  
+`Python` `Django` `FastAPI` `gRPC` `Redis` `SQLite` `Docker`
 
 **[CacheHLS](https://github.com/PietroValente/CacheHLS)**  
 A cache for HLS live streaming over broadband with customizable delay, improving streaming stability and efficiency using a dynamic data structure.  
